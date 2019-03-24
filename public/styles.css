@@ -64,7 +64,7 @@ h2 {
 
 h1,
 h2 {
-  font-family: "Meddon", cursive;
+  font-family: "Helvetica", bold;
   font-weight: normal;
   line-height: 150%;
 }
@@ -73,7 +73,7 @@ p {
   margin-top: 0.5em;
   padding-top: 0;
   font-size: 1.3em;
-  font-family: "Cardo", serif;
+  font-family: "Helvetica", sans-serif;
   line-height: 150%;
 }
 
