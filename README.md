@@ -12,6 +12,8 @@ There are two main ways to do changes, with the easiest one using only your brow
 
 When you are logged in, locate the file you want to edit from the GitHub UI and click on the "Edit" icon (it looks like a pencil) right above the source code.
 
+![screenshot of edit icon](https://user-images.githubusercontent.com/482561/55458873-d5df2e80-55f6-11e9-8802-c4a1fcc28c74.png)
+
 Do the changes you want and then propose a file change. Write a small note saying what you did, preferably in English but Finnish is OK too, and then click "Propose file change". Continue to to create a pull request.
 
 Once a pull request is opened, [Netlify](https://www.netlify.com/) will post a unique URL in the pull request where your changes are visible. See https://github.com/Dissonanssi/dissonanssi.fi/pull/1 for an example pull request, where the changes were visible in [https://deploy-preview-1--dissonanssi.netlify.com/](https://deploy-preview-1--dissonanssi.netlify.com/)
