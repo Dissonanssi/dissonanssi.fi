@@ -16,7 +16,13 @@ Do the changes you want and then propose a file change. Write a small note sayin
 
 Once a pull request is opened, [Netlify](https://www.netlify.com/) will post a unique URL in the pull request where your changes are visible. See https://github.com/Dissonanssi/dissonanssi.fi/pull/1 for an example pull request, where the changes were visible in [https://deploy-preview-1--dissonanssi.netlify.com/](https://deploy-preview-1--dissonanssi.netlify.com/)
 
-You can do changes in your pull request using the UI as much as you want to. Netlify will update the deploy preview site after each new change is committed.
+You can do changes in your pull request using the UI as much as you want to. Netlify will update the deploy preview site after each new change is committed. You can create additional changes by navigating to your repository from the open pull request page:
+
+![navigate to branch screenshot](https://user-images.githubusercontent.com/482561/55458589-08d4f280-55f6-11e9-97b1-bf0e537bdf62.png)
+
+This link will lead you to your own branch where you can change the files and then "Commit directly to the `some-text` branch.". When you do this, the open pull request will be automatically updated to include your new changes.
+
+![Committing changes directly to own branch screenshot](https://user-images.githubusercontent.com/482561/55458770-91ec2980-55f6-11e9-8986-dff6ce06a653.png)
 
 Now somebody with write access can check out your changes and merge your pull request if the changes look good. Once a pull request is merged, https://dissonanssi.fi will automatically update to contain the latest changes.
 
