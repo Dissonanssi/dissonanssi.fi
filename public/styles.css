@@ -29,15 +29,14 @@ header {
   overflow: hidden;
 }
 
-header div.title {
-  background-image: url(bg.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+.header-image  {
+  width: 100%
 }
 
-header div.title > div {
-  background-color: rgba(9, 141, 153, 0.6);
+@media only screen and (min-width: 576px) {
+  header {
+    margin: 0 20%;
+  }
 }
 
 div.pad {
