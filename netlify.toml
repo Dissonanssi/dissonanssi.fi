@@ -6,6 +6,6 @@
 
 [[redirects]]
   from = "/love"
-  to = "https://www.dropbox.com/s/b9g6ada62azle1i/Dissonanssi%20K2023%20k%C3%A4siohjelma%20FINALFINALFINAL.pdf?dl=1"
+  to = "/love.pdf"
   status = 302
   force = true
