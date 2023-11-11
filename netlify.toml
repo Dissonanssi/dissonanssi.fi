@@ -1,7 +1,7 @@
 [[redirects]]
   from = "/oxuwiki"
-  to = "https://dissonanssi.ayy.fi/oxuwiki"
-  status = 301
+  to = "https://vl.kapsi.fi/dissowiki"
+  status = 302
   force = true
 
 [[redirects]]
