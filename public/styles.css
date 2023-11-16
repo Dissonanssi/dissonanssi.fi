@@ -46,10 +46,14 @@ header {
 }
 
 .navigaatio li {
-  margin-right: 3rem;
+  margin-right: 2rem;
 }
 
 @media only screen and (min-width: 576px) {
+  .navigaatio li {
+    margin-right: 3rem;
+  }
+
   .navigaatio a {
     font-size: 1.5rem;
   }
