@@ -39,6 +39,27 @@ header {
   }
 }
 
+.navigaatio ul {
+  list-style-type: none;
+  display: flex;
+  padding-left: 0;
+}
+
+.navigaatio li {
+  margin-right: 3rem;
+}
+
+@media only screen and (min-width: 576px) {
+  .navigaatio a {
+    font-size: 1.5rem;
+  }
+
+  .navigaatio .nykyinen {
+    font-size: 1.5rem;
+  }
+}
+
+
 div.pad {
   padding: 0 2em 2em 2em;
 }
