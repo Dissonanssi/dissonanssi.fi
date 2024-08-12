@@ -3,9 +3,3 @@
   to = "https://wiki.dissonanssi.fi"
   status = 302
   force = true
-
-[[redirects]]
-  from = "/love"
-  to = "/love.pdf"
-  status = 302
-  force = true
