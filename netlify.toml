@@ -3,3 +3,9 @@
   to = "https://wiki.dissonanssi.fi"
   status = 302
   force = true
+
+[[redirects]]
+  from = "/koelaulut"
+  to = "https://forms.gle/t2EsvDkhrmF9jEo4A"
+  status = 302
+  force = true
